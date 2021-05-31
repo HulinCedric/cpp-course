@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: AgenceBancaire - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Charles\AppData\Local\Temp\RSP5EBF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/AgenceBancaire.pdb" /debug /machine:I386 /out:"Debug/AgenceBancaire.exe" /pdbtype:sept 
+.\Debug\AgenceBancaire_0_1.obj
+.\Debug\AgenceBancaire_0_2.obj
+.\Debug\AgenceBancaire_1.obj
+.\Debug\AgenceBancaire_2_2.obj
+.\Debug\AgenceBancaire_2_3.obj
+.\Debug\AgenceBancaire_3_1.obj
+.\Debug\AgenceBancaire_3_2.obj
+.\Debug\AgenceBancaire_3_3.obj
+.\Debug\AgenceBancaire_3_4.obj
+.\Debug\AgenceBancaire_3_5.obj
+.\Debug\AgenceBancaire_4_1.obj
+.\Debug\AgenceBancaire_4_2_1.obj
+.\Debug\AgenceBancaire_4_2_2.obj
+.\Debug\AgenceBancaire_4_2_3.obj
+.\Debug\AgenceBancaire_4_3_1.obj
+.\Debug\AgenceBancaire_4_3_2.obj
+.\Debug\AgenceBancaire_4_3_3.obj
+.\Debug\AgenceBancaire_4_4.obj
+.\Debug\AgenceBancaire_4_5.obj
+.\Debug\AgenceBancaire_P.obj
+.\Debug\T_AgenceBancaire_P.obj
+..\_Banque\Debug\_Banque_0.obj
+..\_Banque\Debug\_Banque_1.obj
+..\_Banque\Debug\_Banque_2.obj
+..\_Banque\Debug\_Banque_3_1.obj
+..\_Banque\Debug\_Banque_3_2.obj
+..\_Banque\Debug\_Banque_3_3.obj
+..\_Banque\Debug\_Banque_3_4.obj
+..\_Banque\Debug\_Banque_3_5.obj
+..\_Banque\Debug\_Banque_4.obj
+..\..\_Maths\Collection\Debug\Collection_1.obj
+..\..\_Maths\Collection\Debug\Collection_3_1.obj
+..\..\_Maths\Collection\Debug\Collection_3_2.obj
+..\..\_Maths\Collection\Debug\Collection_3_3.obj
+..\..\_Maths\Collection\Debug\Collection_4.obj
+..\CompteBancaire\Debug\CompteBancaire_0.obj
+..\CompteBancaire\Debug\CompteBancaire_1.obj
+..\CompteBancaire\Debug\CompteBancaire_2_2.obj
+..\CompteBancaire\Debug\CompteBancaire_2_3.obj
+..\CompteBancaire\Debug\CompteBancaire_3_1.obj
+..\CompteBancaire\Debug\CompteBancaire_3_2.obj
+..\CompteBancaire\Debug\CompteBancaire_P.obj
+..\CompteCourant\Debug\CompteCourant_1.obj
+..\CompteCourant\Debug\CompteCourant_2.obj
+..\CompteCourant\Debug\CompteCourant_3_1.obj
+..\CompteCourant\Debug\CompteCourant_3_2.obj
+..\CompteCourant\Debug\CompteCourant_P.obj
+..\CompteEpargne\Debug\CompteEpargne_1.obj
+..\CompteEpargne\Debug\CompteEpargne_2.obj
+..\CompteEpargne\Debug\CompteEpargne_3.obj
+..\CompteEpargne\Debug\CompteEpargne_4_1.obj
+..\CompteEpargne\Debug\CompteEpargne_4_2.obj
+..\CompteEpargne\Debug\CompteEpargne_5.obj
+..\CompteEpargne\Debug\CompteEpargne_P.obj
+..\OperationBancaire\Debug\OperationBancaire_1.obj
+..\OperationBancaire\Debug\OperationBancaire_2.obj
+..\OperationBancaire\Debug\OperationBancaire_P.obj
+..\Titulaire\Debug\Titulaire_1.obj
+..\Titulaire\Debug\Titulaire_2.obj
+..\Titulaire\Debug\Titulaire_3.obj
+..\Titulaire\Debug\Titulaire_P.obj
+..\..\_Tests\Tests\Debug\Tests.obj
+..\..\_Tests\Tests\Debug\Tests_1.obj
+..\..\_Tests\Tests\Debug\Tests_2.obj
+..\..\_Archives\_Archives\Debug\_Archives.obj
+..\..\_Archives\Archive\Debug\Archive.obj
+..\..\_Archives\Archive\Debug\Archive_1_1.obj
+..\..\_Archives\Archive\Debug\Archive_1_2.obj
+..\..\_Archives\Archive\Debug\Archive_1_3.obj
+..\..\_Archives\Archive\Debug\Archive_1_4.obj
+..\..\_Archives\File\Debug\File.obj
+..\..\_Archives\Object\Debug\Object.obj
+]
+Creating command line "link.exe @C:\Users\Charles\AppData\Local\Temp\RSP5EBF.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+AgenceBancaire.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
